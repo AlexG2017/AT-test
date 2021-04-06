@@ -1,0 +1,13 @@
+Thumbs.db
+obj/
+bin/
+.vs/
+*.suo
+*.lib
+*.obj
+*.pdb
+*.user
+*.bak
+*.log
+*.resharper
+*.orig
